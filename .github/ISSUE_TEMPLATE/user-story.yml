@@ -113,4 +113,12 @@ body:
           label: Definition of Done
           description: Mark items when the story is complete.
           options:
-              - label: Acceptance criteria met
+            - label: Acceptance criteria met
+            - label: Code is complete and Pull-Request created
+            - label: Code reviewed and approved
+            - label: Documentation has been updated
+            - label: Coding guidelines have been followed
+            - label: There are no known bugs or issues
+
+
+

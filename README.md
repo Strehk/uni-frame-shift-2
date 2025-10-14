@@ -8,6 +8,9 @@ This project is heavily inspired by one very famous surrealistic painting "Der H
 
 The project is a cooperation between students of HTW Berlin of the majors "Communication Design" and "Computer Science in culture and health". The project is supervised by [Prof. Dr.-Ing. Johann Habakuk Israel](https://www.htw-berlin.de/hochschule/personen/person/?eid=4743) and [Prof. Andreas Ingerl](https://www.htw-berlin.de/hochschule/personen/person/?eid=4388).
 
+## Contributing
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for our contribution guidelines.
+
 ## Project Structure
 ```
 .
