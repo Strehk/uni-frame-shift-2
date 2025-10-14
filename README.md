@@ -9,11 +9,13 @@ This project is heavily inspired by one very famous surrealistic painting "Der H
 The project is a cooperation between students of HTW Berlin of the majors "Communication Design" and "Computer Science in culture and health". The project is supervised by [Prof. Dr.-Ing. Johann Habakuk Israel](https://www.htw-berlin.de/hochschule/personen/person/?eid=4743) and [Prof. Andreas Ingerl](https://www.htw-berlin.de/hochschule/personen/person/?eid=4388).
 
 ## Project Structure
+```
 .
 ├── README.md
 ├── LICENSE
 ├── demo-scenes # Demo scenes for showcasing Tilt Five capabilities and interaction techniques
 ├── .github # GitHub configuration files and workflows
+```
 
 ## Knowledge Base
 We are collecting knowledge, resources and other useful information in our [Wiki](https://github.com/Strehk/uni-frame-shift-2/wiki).

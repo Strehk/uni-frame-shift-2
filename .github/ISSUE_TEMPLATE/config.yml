@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question, start a discussion or suggest an improvement / feature
+    url: https://github.com/strehk/uni-frame-shift-2/discussions
+    about: Please use the discussion section.
+  - name: Store knowledge, documentation or project notes
+    url: https://github.com/Strehk/uni-frame-shift-2/wiki
+    about: Please use the wiki section.
