@@ -1,0 +1,47 @@
+name: "Task / Technical Debt"
+description: "Track a small task, refactor, cleanup, or dependency update."
+labels:
+    - task
+assignees: []
+body:
+    - type: textarea
+      id: goal
+      attributes:
+          label: Goal
+          description: What needs to be done and why?
+          placeholder: "Brief objective and rationale."
+      validations:
+          required: true
+
+    - type: textarea
+      id: scope
+      attributes:
+          label: Scope
+          description: What’s in scope vs. out of scope?
+      validations:
+          required: false
+
+    - type: textarea
+      id: approach
+      attributes:
+          label: Proposed Approach
+          description: Outline the plan or steps.
+      validations:
+          required: false
+
+    - type: input
+      id: story_points
+      attributes:
+          label: Estimate (Story Points)
+          description: Rough effort estimate for planning.
+          placeholder: "3"
+      validations:
+          required: false
+
+    - type: input
+      id: related
+      attributes:
+          label: Related Issues/PRs
+          placeholder: "#123, #456"
+      validations:
+          required: false

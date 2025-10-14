@@ -1,0 +1,58 @@
+name: "Documentation"
+description: "Propose new docs or updates to existing documentation."
+labels:
+    - documentation
+assignees: []
+body:
+    - type: input
+      id: doc_area
+      attributes:
+          label: Documentation Area
+          description: What part of the docs?
+      validations:
+          required: true
+
+    - type: textarea
+      id: change
+      attributes:
+          label: Change Summary
+          description: What should be added/changed/removed?
+      validations:
+          required: true
+
+    - type: textarea
+      id: details
+      attributes:
+          label: Details
+          description: Provide content, examples, or links.
+      validations:
+          required: false
+        
+    - type: input
+      id: story_points
+      attributes:
+          label: Estimate (Story Points)
+          description: Rough effort estimate for planning.
+          placeholder: "3"
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: docs_type
+      attributes:
+          label: Type
+          options:
+              - label: New page/section
+              - label: Update existing
+              - label: Fix typo/formatting
+              - label: Remove/deprecate
+      validations:
+          required: false
+
+    - type: input
+      id: related
+      attributes:
+          label: Related Issues/PRs
+          placeholder: "#123, #456"
+      validations:
+          required: false

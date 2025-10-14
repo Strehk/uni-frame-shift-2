@@ -1,0 +1,116 @@
+name: "User Story"
+description: "Create a new user story with acceptance criteria and implementation notes."
+labels:
+    - user-story
+assignees: []
+projects: []
+body:
+    - type: input
+      id: user_role
+      attributes:
+          label: User Role
+          description: Who is the user?
+          placeholder: "As a [role]"
+      validations:
+          required: true
+
+    - type: textarea
+      id: user_goal
+      attributes:
+          label: Goal
+          description: What does the user want to do?
+          placeholder: "I want to ..."
+      validations:
+          required: true
+
+    - type: textarea
+      id: user_value
+      attributes:
+          label: Value
+          description: Why does the user want this? What is the benefit?
+          placeholder: "So that ..."
+      validations:
+          required: true
+
+    - type: checkboxes
+      id: definition_of_ready
+      attributes:
+          label: Definition of Ready
+          description: Check items that are satisfied before starting.
+          options:
+              - label: Story is clearly defined and scoped
+              - label: Acceptance criteria drafted
+              - label: Dependencies identified
+              - label: Designs / mockups attached (if applicable)
+              - label: Performance, security, and accessibility considered
+
+    - type: textarea
+      id: acceptance_criteria
+      attributes:
+          label: Acceptance Criteria
+          description: Provide clear, testable criteria.
+          placeholder: |
+              Examples (Gherkin style):
+              - Given I am on the login page, When I click "Forgot password", Then I see the reset form.
+              - Given I enter a valid email, When I submit, Then I receive a reset link.
+      validations:
+          required: true
+
+    - type: input
+      id: story_points
+      attributes:
+          label: Estimate (Story Points)
+          description: Rough effort estimate for planning.
+          placeholder: "3"
+      validations:
+          required: false
+
+    - type: textarea
+      id: dependencies
+      attributes:
+          label: Dependencies / Blockers
+          description: Reference related issues, services, contracts, or teams.
+          placeholder: "- Depends on #456"
+      validations:
+          required: false
+
+    - type: textarea
+      id: technical_notes
+      attributes:
+          label: Technical Notes
+          description: Architecture, implementation approach, constraints, ...
+          placeholder: |
+              - Approach:
+              - Affected services/modules:
+      validations:
+          required: false
+
+    - type: textarea
+      id: out_of_scope
+      attributes:
+          label: Out of Scope
+          description: Clarify what is explicitly excluded.
+          placeholder: "- Not included: ..."
+      validations:
+          required: false
+
+    - type: textarea
+      id: attachments
+      attributes:
+          label: Links & Attachments
+          description: Designs, diagrams, documents, and references.
+          placeholder: |
+              - Figma:
+              - Architecture diagram:
+              - API contract:
+              - Related issues/PRs:
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: definition_of_done
+      attributes:
+          label: Definition of Done
+          description: Mark items when the story is complete.
+          options:
+              - label: Acceptance criteria met
