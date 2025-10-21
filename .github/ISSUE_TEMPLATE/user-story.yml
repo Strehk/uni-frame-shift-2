@@ -32,18 +32,6 @@ body:
       validations:
           required: true
 
-    - type: checkboxes
-      id: definition_of_ready
-      attributes:
-          label: Definition of Ready
-          description: Check items that are satisfied before starting.
-          options:
-              - label: Story is clearly defined and scoped
-              - label: Acceptance criteria drafted
-              - label: Dependencies identified
-              - label: Designs / mockups attached (if applicable)
-              - label: Performance, security, and accessibility considered
-
     - type: textarea
       id: acceptance_criteria
       attributes:
