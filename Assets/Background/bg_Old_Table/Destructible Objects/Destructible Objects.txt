@@ -1,0 +1,9 @@
+Made by Rajendra Abhinaya
+
+To use the destructible object in your project, simply drag and drop the object's prefab into the scene. The object will
+contain the DestructibleObject.cs script which contains variables that are modifiable through the inspector. Hover over
+the variables to display a tooltip explaining the variable.
+
+The object breaks when a collision occurs. If you would like to break the object by other means you can access the Break()
+function on the DestructibleObject.cs script. If you would like to use your own custom objects, make sure to put the
+DestructibleObject.cs script on the object and the Despawn.cs script on the debris prefabs.
