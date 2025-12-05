@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 409fe06028fb21b448f405c1af243fde
+timeCreated: 1510100024
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampCylFloor.prefab
+  uploadId: 211490

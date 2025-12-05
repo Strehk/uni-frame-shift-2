@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bf9152547b8166449ea1ed89d363393
+timeCreated: 1510099261
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampClassicCeiling.prefab
+  uploadId: 211490

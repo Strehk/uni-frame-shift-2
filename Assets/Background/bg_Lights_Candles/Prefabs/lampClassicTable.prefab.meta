@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a17b3734f4d4d3c47950f29340aa6446
+timeCreated: 1510099804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampClassicTable.prefab
+  uploadId: 211490

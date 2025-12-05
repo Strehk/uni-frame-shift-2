@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe9d5cf12210d504daf1ce959c56918c
+timeCreated: 1510101072
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/flameVFX_mat.mat
+  uploadId: 211490

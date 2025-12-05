@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29d65ff9b95548549805e3343a88b41a
+timeCreated: 1510096979
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/glass_mat.mat
+  uploadId: 211490

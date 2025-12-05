@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2dcf7a41d7c6c6449372306a5c54300
+timeCreated: 1510099978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleLow.prefab
+  uploadId: 211490

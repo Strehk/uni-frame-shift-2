@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 20ffe5c18928a4c4594e9261db2333af
+timeCreated: 1518704596
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110400
+  packageName: Old "USSR" Lamp
+  packageVersion: 1.0
+  assetPath: Assets/Old_USSR_Lamp/Prefabs/Old_USSR_Lamp_01.prefab
+  uploadId: 230085

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b816293ef0fb48f47a774eaf11956a0c
+timeCreated: 1510096978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/bulb_mat.mat
+  uploadId: 211490
