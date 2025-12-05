@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 191dfc603beea7f4d81dd0a50c3d4b13
+timeCreated: 1510100072
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampCylTable.prefab
+  uploadId: 211490

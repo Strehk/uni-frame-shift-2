@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 173736825d13eb342a0c9e15ae32ebfb
+timeCreated: 1510099515
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleTrayCircle.prefab
+  uploadId: 211490

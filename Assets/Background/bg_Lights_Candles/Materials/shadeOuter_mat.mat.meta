@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56c2fc4457737e44ab51c7b244f54a79
+timeCreated: 1510096978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/shadeOuter_mat.mat
+  uploadId: 211490

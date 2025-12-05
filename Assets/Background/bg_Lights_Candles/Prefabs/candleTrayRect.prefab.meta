@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9590e4399e403ec49b497160fbb4a002
+timeCreated: 1510099567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleTrayRect.prefab
+  uploadId: 211490

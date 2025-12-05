@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b427cdaacfc376438c01515082d8317
+timeCreated: 1510097301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/groundPlane_mat.mat
+  uploadId: 211490

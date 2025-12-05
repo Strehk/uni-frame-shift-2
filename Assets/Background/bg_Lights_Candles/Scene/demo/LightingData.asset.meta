@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 687be0d0c3864a14b82037b3f1f48248
+timeCreated: 1510258273
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Scene/demo/LightingData.asset
+  uploadId: 211490

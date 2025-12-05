@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c26b715018246b240b2b7b8c74010c81
+timeCreated: 1510099420
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleWallDiamond.prefab
+  uploadId: 211490
