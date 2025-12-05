@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b88f59753c7383343aaa5f5cb2016aed
+guid: 947ea0d3fad5458499f8d41cd1356a70
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -143,6 +143,5 @@ AssetOrigin:
   productId: 303168
   packageName: Casual Light Pack
   packageVersion: 1.0
-  assetPath: Assets/Gogo Casual Pack/Gogo Casual Free Light Pack/Materials/color
-    pallete.png
+  assetPath: Assets/Gogo Casual Pack/Materials/color pallete.png
   uploadId: 722476

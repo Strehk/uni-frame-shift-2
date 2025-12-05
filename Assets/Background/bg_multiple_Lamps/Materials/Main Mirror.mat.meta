@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a25b3bfc35ca8904c9433f0959cb42ae
+guid: 877382c5d60d0b94ca119536be9d724f
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 303168
   packageName: Casual Light Pack
   packageVersion: 1.0
-  assetPath: Assets/Gogo Casual Pack/Gogo Casual Free Light Pack/Materials/Main Mirror.mat
+  assetPath: Assets/Gogo Casual Pack/Materials/Main Mirror.mat
   uploadId: 722476

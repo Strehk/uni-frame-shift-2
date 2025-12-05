@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b7cdbf564058f0b44a35cc9a04a783b7
+guid: 614e72c9b58389e4b994de05d9b8dd45
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 303168
   packageName: Casual Light Pack
   packageVersion: 1.0
-  assetPath: Assets/Gogo Casual Pack/Gogo Casual Free Light Pack/Materials/Main Texture.mat
+  assetPath: Assets/Gogo Casual Pack/Materials/Main Texture.mat
   uploadId: 722476
