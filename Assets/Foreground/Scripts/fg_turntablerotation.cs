@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 
 public class fg_turntablerotation : MonoBehaviour
 {
@@ -8,17 +9,18 @@ public class fg_turntablerotation : MonoBehaviour
     [Tooltip("1 = Uhrzeigersinn, -1 = Gegen den Uhrzeigersinn")]
     public int rotationDirection = 1;
 
-    float degreesPerSecond;
-
-    void Start()
-    {
-        degreesPerSecond = (360f * rotationsPerHour) / 3600f;
-    }
-
     void Update()
     {
-        // Erzwungene Rotation um die globale Y-Achse
-        float rotation = degreesPerSecond * rotationDirection * Time.deltaTime;
-        transform.Rotate(0f, rotation, 0f, Space.World);
+        // Absolute globale Zeit in Sekunden (UTC, unabhängig vom Spielstart)
+        double globalSeconds = DateTime.UtcNow.Subtract(DateTime.UnixEpoch).TotalSeconds;
+
+        // Fortschritt der Rotation (0..1) innerhalb einer Stunde
+        double hourFraction = (globalSeconds * rotationsPerHour) % 3600 / 3600.0;
+
+        // Winkel berechnen
+        float angle = (float)(hourFraction * 360.0) * rotationDirection;
+
+        // Rotation SETZEN (nicht addieren!)
+        transform.rotation = Quaternion.Euler(0f, angle, 0f);
     }
 }
