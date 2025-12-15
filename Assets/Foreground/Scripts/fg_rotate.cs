@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class fg_rotate : MonoBehaviour
+public class Fg_rotate : MonoBehaviour
 {
     [Header("Zugriff auf das Time-Objekt")]
-    public time timeScript; // Ziehe das Objekt mit dem 'time'-Script hier rein
+    public Fg_time timeScript; // Ziehe das Objekt mit dem 'time'-Script hier rein
 
     [Header("Dreh-Einstellungen")]
     [Tooltip("Wie oft soll sich das Objekt pro Tag rotieren?")]

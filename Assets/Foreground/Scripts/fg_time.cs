@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class time : MonoBehaviour
+public class Fg_time : MonoBehaviour
 {
     [Header("Einstellungen")]
     [Tooltip("Dauer eines vollständigen Tages in Minuten.")]
