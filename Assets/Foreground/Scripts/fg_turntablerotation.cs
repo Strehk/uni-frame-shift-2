@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-public class fg_turntablerotation : MonoBehaviour
+public class Fg_turntablerotation : MonoBehaviour
 {
     [Tooltip("Umdrehungen pro Stunde")]
     public float rotationsPerHour = 1f;
