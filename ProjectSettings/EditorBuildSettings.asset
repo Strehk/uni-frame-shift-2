@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ParentScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ForegroundScene.unity
+    guid: 3d02ed576405e4140ac162f8ae67f3ad
+  - enabled: 1
+    path: Assets/Scenes/BackgroundScene.unity
+    guid: 7c4d9d093936346ef8c40ab083724ff5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
