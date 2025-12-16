@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a931465bf1dca045b2d388a52a7bd2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260169
+  packageName: Destructible Wooden Table
+  packageVersion: 1.0
+  assetPath: Assets/Diabolical Games/Destructible Objects/Scripts/Spawner.cs
+  uploadId: 607686

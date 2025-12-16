@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82c062da99c29bd4a9b4f34e419ead34
+timeCreated: 1510100121
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleWallSolo.prefab
+  uploadId: 211490

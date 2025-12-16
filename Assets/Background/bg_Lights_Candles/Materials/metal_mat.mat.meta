@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18e5a28704c55a94cadd97e6bb9aaa90
+timeCreated: 1510096978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Materials/metal_mat.mat
+  uploadId: 211490

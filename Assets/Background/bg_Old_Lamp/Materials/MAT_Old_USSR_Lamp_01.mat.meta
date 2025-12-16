@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be076af5fa4da124bbf253d0d5136d69
+timeCreated: 1517239046
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110400
+  packageName: Old "USSR" Lamp
+  packageVersion: 1.0
+  assetPath: Assets/Old_USSR_Lamp/Materials/MAT_Old_USSR_Lamp_01.mat
+  uploadId: 230085

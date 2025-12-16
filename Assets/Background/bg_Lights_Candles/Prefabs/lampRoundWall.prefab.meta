@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db7c4cf8589af6a44842cbd27bd80b89
+timeCreated: 1510099761
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampRoundWall.prefab
+  uploadId: 211490

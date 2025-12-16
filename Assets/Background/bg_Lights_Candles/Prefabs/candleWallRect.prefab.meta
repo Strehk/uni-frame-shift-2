@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f54d1f7a5d8b2b459e485b444f4c7be
+timeCreated: 1510099699
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleWallRect.prefab
+  uploadId: 211490

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d31fbcf78ed30da4783b00994c67e0f6
+timeCreated: 1510099998
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampClassicWall.prefab
+  uploadId: 211490

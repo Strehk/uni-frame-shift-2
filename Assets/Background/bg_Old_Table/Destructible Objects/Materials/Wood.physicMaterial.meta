@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c53831e89ad82c41bb0720719a7c19e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260169
+  packageName: Destructible Wooden Table
+  packageVersion: 1.0
+  assetPath: Assets/Diabolical Games/Destructible Objects/Materials/Wood.physicMaterial
+  uploadId: 607686

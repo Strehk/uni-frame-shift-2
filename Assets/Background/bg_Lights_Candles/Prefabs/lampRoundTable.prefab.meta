@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41c73835d422dc140b818dab7a4acae7
+timeCreated: 1510099896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/lampRoundTable.prefab
+  uploadId: 211490

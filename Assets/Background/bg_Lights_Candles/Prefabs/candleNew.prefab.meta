@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c53f42399abc6d44c8a340f4938d9dbf
+timeCreated: 1510099467
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104628
+  packageName: Customizable Lights and Candles
+  packageVersion: 1.0
+  assetPath: Assets/Customizable Lights and Candles/Prefabs/candleNew.prefab
+  uploadId: 211490
