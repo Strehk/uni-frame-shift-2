@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be9fa4f78b806e447909fdcfebfec677
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284152
+  packageName: Board Game Essentials - Chess / Checkers / Dice
+  packageVersion: 1.0
+  assetPath: Assets/Daniel Riches/BoardGameEssentials/BoardGameEssentialsPrefabs/NotepadBook.prefab
+  uploadId: 666420

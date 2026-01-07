@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c1cf5883cca5bf4082e4a1987542603
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284152
+  packageName: Board Game Essentials - Chess / Checkers / Dice
+  packageVersion: 1.0
+  assetPath: Assets/Daniel Riches/BoardGameEssentials/BoardGameEssentialsMaterials/BoardGameEssentialsWhiteSmooth.mat
+  uploadId: 666420
