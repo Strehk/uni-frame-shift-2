@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6801e251ac9fdd46b7436752ec0da7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272809
+  packageName: Barn Door Asset Pack
+  packageVersion: 01.0.0
+  assetPath: Assets/BarnDoorAssetPack/Materials/BarnDoor_10.mat
+  uploadId: 638823

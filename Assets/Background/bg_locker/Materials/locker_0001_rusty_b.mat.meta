@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c786bb8319f20fa41aa447e0c927e24e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56405
+  packageName: Locker
+  packageVersion: 2.1
+  assetPath: Assets/Locker_HQ/3dobjects/Materials/locker_0001_rusty_b.mat
+  uploadId: 789808
