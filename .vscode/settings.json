@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "frame-shift-2.sln"
+    "dotnet.defaultSolution": "uni-frame-shift-2.sln"
 }
