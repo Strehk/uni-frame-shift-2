@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f601cba4f8f27414f8c05ebcd7aafaef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284152
+  packageName: Board Game Essentials - Chess / Checkers / Dice
+  packageVersion: 1.0
+  assetPath: Assets/Daniel Riches/BoardGameEssentials/BoardGameEssentialsMaterials/BoardGameEssentialsDark.mat
+  uploadId: 666420

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c108bf84fbcac34a8e0f59cb4ad37dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284152
+  packageName: Board Game Essentials - Chess / Checkers / Dice
+  packageVersion: 1.0
+  assetPath: Assets/Daniel Riches/BoardGameEssentials/BoardGameEssentialsPrefabs/NotepadCover.prefab
+  uploadId: 666420
