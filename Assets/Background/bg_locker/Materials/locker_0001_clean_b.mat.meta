@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 253d66548c1161747843dd29a35e6c8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56405
+  packageName: Locker
+  packageVersion: 2.1
+  assetPath: Assets/Locker_HQ/3dobjects/Materials/locker_0001_clean_b.mat
+  uploadId: 789808
