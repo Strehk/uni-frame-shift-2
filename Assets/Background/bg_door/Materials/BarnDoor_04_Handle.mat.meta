@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27a6fc63538bcc842aa747f557c47acb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272809
+  packageName: Barn Door Asset Pack
+  packageVersion: 01.0.0
+  assetPath: Assets/BarnDoorAssetPack/Materials/BarnDoor_04_Handle.mat
+  uploadId: 638823
