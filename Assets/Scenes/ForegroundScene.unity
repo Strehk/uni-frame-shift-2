@@ -357,6 +357,7 @@ GameObject:
   - component: {fileID: 338602720}
   - component: {fileID: 338602719}
   - component: {fileID: 338602718}
+  - component: {fileID: 338602721}
   m_Layer: 0
   m_Name: Plane_001
   m_TagString: Untagged
@@ -446,6 +447,24 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 338602716}
   m_Mesh: {fileID: 0}
+--- !u!114 &338602721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 338602716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a35fc3b78cc8a4a6c9fb679d4fe267ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeController: {fileID: 1997708479}
+  dayOpacity: 0
+  nightOpacity: 1
+  nightStart: 18
+  nightEnd: 2
+  fadeHours: 2
 --- !u!1 &402369887
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,7 +659,7 @@ MonoBehaviour:
   streamSource: 1
   streamDescriptor: {fileID: 0}
   embeddedStreamDescriptor:
-    pathToAbc: C:/Users/alici/Documents/5.Semester/uni-frame-shift-2/Assets/Foreground/night/final_decke.abc
+    pathToAbc: Assets/Foreground/night/final_decke.abc
     settings:
       normals: 1
       tangents: 1
