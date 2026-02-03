@@ -1,0 +1,9 @@
+Third Party Software Notices
+This package contains third-party software components governed by the license(s) indicated below:
+
+1. Component Name: glTFast
+
+License Type: Apache License 2.0
+
+See https://github.com/atteneder/glTFast/blob/openupm/LICENSE.md for more details.
+
