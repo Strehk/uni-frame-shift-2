@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0de1f89ae9518b4397486a671a6b23c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325467
+  packageName: Painting Tools
+  packageVersion: 1.0
+  assetPath: Assets/LumiStudio/Painting Tools/Materials/M_Brush_01.mat
+  uploadId: 775802
