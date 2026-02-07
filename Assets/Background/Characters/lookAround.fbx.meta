@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2042804ad953aa04484feb80d96edde0
+guid: 91d01d4415ad50f43b4b36034eb838cc
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: standUp
+      name: lookAround
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 146
+      lastFrame: 325
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
